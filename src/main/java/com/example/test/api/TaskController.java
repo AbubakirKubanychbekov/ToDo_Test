@@ -36,6 +36,7 @@ public class TaskController {
     }
 
 
+
     @PermitAll
     @GetMapping("/{id}")
     @Operation(summary = "Получить задачу по идентификатору",
