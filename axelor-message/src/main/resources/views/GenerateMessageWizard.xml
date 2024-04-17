@@ -41,5 +41,4 @@
   <action-attrs name="action-on-change-language-template">
     <attribute for="_xTemplate" name="value" expr="eval: null"/>
   </action-attrs>
-
 </object-views>

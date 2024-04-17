@@ -141,3 +141,4 @@ public class SendMailQueueService extends JpaSupport {
     }
   }
 }
+

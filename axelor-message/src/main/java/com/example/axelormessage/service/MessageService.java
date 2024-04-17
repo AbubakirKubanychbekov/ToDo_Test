@@ -170,3 +170,4 @@ public interface MessageService {
 
   public void addMessageRelatedTo(Message message, String relatedToSelect, Long relatedToSelectId);
 }
+

@@ -47,3 +47,4 @@ public class MessageModule extends AxelorModule {
     bind(TemplateService.class);
   }
 }
+

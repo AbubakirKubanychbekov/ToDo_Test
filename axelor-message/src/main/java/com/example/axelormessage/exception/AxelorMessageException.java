@@ -94,5 +94,6 @@ public class AxelorMessageException extends AxelorException {
 
   public AxelorMessageException(Throwable cause, Model ref, int category, String message) {
     super(cause, ref, category, message);
+
   }
 }

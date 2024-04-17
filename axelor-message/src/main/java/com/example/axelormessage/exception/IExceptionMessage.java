@@ -69,4 +69,5 @@ public interface IExceptionMessage {
 
   static final String TEMPORARY_EMAIL_MEDIA_TYPE_ERROR = /*$$(*/
       "Temporary email service only support Email media type." /*)*/;
+
 }

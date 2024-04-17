@@ -6,3 +6,4 @@
   <input file="message_template.csv" separator=";" type="com.axelor.apps.message.db.Template"/>
 
 </csv-inputs>
+

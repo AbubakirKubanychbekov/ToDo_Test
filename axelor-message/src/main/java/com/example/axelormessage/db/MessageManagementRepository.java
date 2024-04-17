@@ -29,5 +29,6 @@ public class MessageManagementRepository extends MessageRepository {
     entity.setBccEmailAddressSet(null);
     entity.setRecipientUser(null);
     return super.copy(entity, deep);
+
   }
 }

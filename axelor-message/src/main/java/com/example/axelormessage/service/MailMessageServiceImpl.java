@@ -93,3 +93,4 @@ public class MailMessageServiceImpl implements MailMessageService {
     mailFollowerRepository.save(follower);
   }
 }
+

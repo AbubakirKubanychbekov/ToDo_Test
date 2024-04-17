@@ -414,3 +414,4 @@ public class MailAccountServiceImpl implements MailAccountService {
     return cipherService.decrypt(password);
   }
 }
+

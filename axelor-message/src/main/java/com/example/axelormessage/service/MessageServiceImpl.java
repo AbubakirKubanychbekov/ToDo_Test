@@ -584,3 +584,4 @@ public class MessageServiceImpl extends JpaSupport implements MessageService {
     message.addMultiRelatedListItem(multiRelated);
   }
 }
+

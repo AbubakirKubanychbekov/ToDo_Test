@@ -21,3 +21,4 @@ public interface ITranslation {
 
   public static final String MESSAGE_TEST_TEMPLATE = /*$$(*/ "Test template"; /*)*/
 }
+

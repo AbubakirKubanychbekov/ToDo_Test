@@ -49,3 +49,4 @@ public interface MailAccountService {
 
   public MailAccount getMailAccount(EmailAccount mailAccount);
 }
+

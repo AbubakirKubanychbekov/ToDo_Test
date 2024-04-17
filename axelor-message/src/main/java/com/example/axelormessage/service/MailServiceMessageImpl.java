@@ -238,3 +238,4 @@ public class MailServiceMessageImpl extends MailServiceImpl {
     return reader;
   }
 }
+

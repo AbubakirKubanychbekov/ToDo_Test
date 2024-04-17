@@ -11,3 +11,4 @@
 "perm.message.EmailAccount.rwcde";"com.axelor.apps.message.db.EmailAccount";"x";"x";"x";"x";"x";;;"Base Manager"
 "perm.message.Message.rwcde";"com.axelor.apps.message.db.Message";"x";"x";"x";"x";"x";"self.company.id in (?)";"__user__.companySet.id.plus(0)";"Base Manager"
 "perm.message.Template.rwcde";"com.axelor.apps.message.db.Template";"x";"x";"x";"x";"x";;;"Base Manager"
+

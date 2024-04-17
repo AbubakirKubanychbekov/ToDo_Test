@@ -15,5 +15,4 @@
     <bind to="canExport" eval="can_export == 'x' ? 'true' : 'false'"/>
   </input>
 
-
 </csv-inputs>

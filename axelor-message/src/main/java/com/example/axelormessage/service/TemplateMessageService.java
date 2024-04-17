@@ -163,3 +163,4 @@ public interface TemplateMessageService {
       Map<String, Object> templatesContext)
       throws ClassNotFoundException;
 }
+

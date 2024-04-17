@@ -43,3 +43,4 @@ public interface MailMessageService {
   void sendNotification(
       User user, String subject, String body, Long relatedId, Class<? extends Model> relatedModel);
 }
+
